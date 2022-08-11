@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/60168324/184056477-487e86fe-838e-4de1-
 
 ## Launch
 
-View and use the Hotel Booking App here: https://marisabrantley.github.io/name-tag-generator/
+View and use the Hotel Booking App here: https://marisabrantley.github.io/hotel-booking-app/
 
 ## Class
 *Skillcrush, Break into Tech Blueprint*
